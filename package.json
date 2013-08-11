@@ -1,0 +1,17 @@
+{
+  "name": "renamefiles-batch",
+  "version": "0.0.1",
+  "description": "rename files batch by a txt file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qlqllu/renamefiles-batch.git"
+  },
+  "author": "Mark Liu",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "f27403614c802df6c431912c97c181f6f6cb0b4b"
+}
