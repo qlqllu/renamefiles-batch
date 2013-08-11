@@ -1,4 +1,4 @@
-renamefiles-batch
+renamefiles-batch(WIP)
 =================
 
 rename files batch by a given txt file
@@ -13,6 +13,6 @@ npm intall -g renamefiles-batch
     [folder name]  
     file1 name  
     file2 name  
-  3. Run renamefiles-batch
+  3. Run renamefiles-batch(if you are not in the folder, fun renamefiles-batch folderName)
   
   *Please note that the file order is very important!*
