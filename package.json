@@ -1,11 +1,12 @@
 {
   "name": "renamefiles-batch",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "rename files batch by a txt file",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {"renamefiles-batch": "./app.js"},
   "repository": {
     "type": "git",
     "url": "https://github.com/qlqllu/renamefiles-batch.git"
